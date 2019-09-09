@@ -6,7 +6,7 @@ see
 [localstack](https://github.com/localstack/localstack)
 
 ## Summary
-![Screenshot demo](https://github.com/nigel447/clambi_golang/blob/master/Summary.png)
+![Screenshot demo](https://github.com/nigel447/clambi_golang/blob/master/Summary.png){:height="360px" width="360px"}
  
 
 ## Under Construction
